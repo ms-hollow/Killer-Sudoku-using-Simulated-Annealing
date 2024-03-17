@@ -1,8 +1,6 @@
 # Killer-Sudoku-using-Simulated-Annealing
 Machine Problem 2 in the course Artificial Intelligence.
 
-# <font size="6">Killer Sudoku Solver using Simulated Annealing</font>
-
 This Python program solves Killer Sudoku puzzles using simulated annealing. Killer Sudoku is a variant of traditional Sudoku, with additional constraints on the sum of numbers within certain groups called "cages."
 
 ## Features
